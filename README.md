@@ -37,5 +37,5 @@ See `requirements.txt` for Python dependencies. Was built with Python 3.8.8.
 
 ## Authors
 
-Nathan Mankovich: [email](mailto:nathan.mankovich@gmail.com)
-Tolga Birdal
+Nathan Mankovich and Tolga Birdal: [email](mailto:nathan.mankovich@gmail.com)
+
