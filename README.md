@@ -24,7 +24,7 @@ See `requirements.txt` for Python dependencies. Was built with Python 3.8.8.
 1. Install requirements
 
     ```
-    pip install -r requirements.txt
+    pip install -r ./PythonCode/requirements.txt
     ```
 
 1. Open `./GettingStarted/example.ipynb` and run it within the `chordal_flag_averaging` environment.
